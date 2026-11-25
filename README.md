@@ -23,7 +23,7 @@ O `main.py` verifica se as bibliotecas estão disponíveis. Abra esta pasta no V
 
 ## Dados
 
-Baixe o arquivo `data.csv` da [base Breast Cancer Wisconsin (Diagnostic)](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data) e salve em `data/raw/data.csv`. A base e o ambiente virtual ficam fora do Git.
+O CSV usado pelo notebook já está no repositório em `data/raw/data.csv`. A fonte é a [base Breast Cancer Wisconsin (Diagnostic)](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data). A pasta `.venv` é criada localmente com as instruções acima.
 
 ## Docker
 
